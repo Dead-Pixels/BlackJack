@@ -1,2 +1,10 @@
 # BlackJack
-Just a fun little side project to create a blackjack game using java. Maybe fleshed out to use a simple UI in the future and/or online vs.
+Just a fun little side project to create a blackjack game using Java. 
+
+Possible future improvements: 
+- Add chips/buyin
+- Add UI
+- Add Login identification service
+- Add Leaderboard system
+- Add online/vs
+  - Add matchmaking system (possibly using elastic search)
